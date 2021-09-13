@@ -1,2 +1,4 @@
-# PrisonersDilemma
-Game Theory, Agent Technology, Python ......
+# Prisoner's Dilemma
+The payoff matrix of the game is included.
+
+
