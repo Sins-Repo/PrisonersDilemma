@@ -19,7 +19,7 @@ Sometimes cooperation among people can be difficult even though it's claimed to 
 <br/>
 
 ### Algortihm
-<img src="img/algo.png">
+<img src="img/algo.png" height=600>
 
 <br/>
 <br/>
