@@ -14,7 +14,12 @@ Sometimes cooperation among people can be difficult even though it's claimed to 
 <br/>
 
 ### Flowchart
-<img src="img/flowchart.png" height=700>
+<img src="img/flowchart.png">
+
+<br/>
+
+### Algortihm
+<img src="img/algo.png">
 
 <br/>
 <br/>
