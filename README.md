@@ -6,6 +6,12 @@ Sometimes cooperation among people can be difficult even though it's claimed to 
 <br/>
 
 # Project Description
+### One mode available
+The code can be found [here](https://github.com/Sins-Repo/PrisonersDilemma/blob/main/main.py)
+* Human player vs Computer player
+
+<br/>
+
 ### Two mode available
 * Human player vs Computer player
 * Human representative (automated) vs Computer player
