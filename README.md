@@ -13,6 +13,7 @@ The code can be found [here](https://github.com/Sins-Repo/PrisonersDilemma/blob/
 <br/>
 
 ### Two mode available
+The code can be found [here](https://github.com/Sins-Repo/PrisonersDilemma/blob/main/complete/main.py)
 * Human player vs Computer player
 * Human representative (automated) vs Computer player
 <img src="img/case.png" width=400>
