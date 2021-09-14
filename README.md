@@ -14,7 +14,7 @@ Sometimes cooperation among people can be difficult even though it's claimed to 
 <br/>
 
 ### Flowchart
-<img src="img/flowchart.png">
+<img src="img/flowchart.png" height=700>
 
 <br/>
 <br/>
