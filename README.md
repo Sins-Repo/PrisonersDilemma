@@ -6,10 +6,15 @@ Sometimes cooperation among people can be difficult even though it's claimed to 
 <br/>
 
 # Project Description
-Two mode
+### Two mode available
 * Human player vs Computer player
 * Human representative (automated) vs Computer player
 <img src="img/case.png" width=400>
+
+<br/>
+
+### Flowchart
+<img src="img/flowchart.png">
 
 <br/>
 <br/>
