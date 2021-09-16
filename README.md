@@ -49,3 +49,9 @@ The code can be found [here](https://github.com/Sins-Repo/PrisonersDilemma/blob/
 3. Open the terminal
 4. `cd <project directory>`
 5. `python main.py`
+
+<br/>
+<br/>
+
+# Sample Output
+<img src="img/sample.png">
