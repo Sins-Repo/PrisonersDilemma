@@ -54,4 +54,5 @@ The code can be found [here](https://github.com/Sins-Repo/PrisonersDilemma/blob/
 <br/>
 
 # Sample Output
+A competition between machines. <br/>
 <img src="img/sample.png">
